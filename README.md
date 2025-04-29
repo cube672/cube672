@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cube672
-- 👀 I’m interested in godot
-- 🌱 I’m currently learning godot
+- 👀 I’m interested in Bloxd.io and texture packs
+- 🌱 I’m currently learning Bloxd io texture packs
 - 📫 How to reach me N/A
 - ⚡ Fun fact: elephant
 
